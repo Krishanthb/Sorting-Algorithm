@@ -65,7 +65,8 @@ print(list_of_nums)
 ```
 
 ## Output:
-
+![image](https://raw.githubusercontent.com/Krishanthb/Sorting-Algorithm/main/Screenshot%202023-12-15%20135047.png)
+![image](https://raw.githubusercontent.com/Krishanthb/Sorting-Algorithm/main/Screenshot%202023-12-15%20135058.png)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
